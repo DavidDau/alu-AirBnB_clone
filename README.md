@@ -1,6 +1,6 @@
 # AirBnB Clone - Command Interpreter
 
-Description
+***Description***:
 This project is the first step towards creating a clone of the popular AirBnB web application. We start by building a command-line interface (CLI) that will allow us to manage different objects in the AirBnB environment. This includes tasks such as creating, modifying, and deleting objects (e.g., User, City, Place) and storing their state in a file.
 
 This command interpreter is crucial as it will be used in future steps to integrate the application with a web interface, a database, and APIs. Our goal is to build a functional, modular application that scales as additional components are added.
